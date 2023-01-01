@@ -4,3 +4,5 @@ import './styles.css';
 const nombre = 'Fernando';
 
 saludar( nombre );
+
+const forma = new FormData();
